@@ -154,3 +154,7 @@ bash cmra_attack/run_cmra_pipeline.sh
 - `GRANULARITY=50`: Number of samples per group per iteration (default: 50)
 - `METRIC=correction_specificity`: Score component to use (default)
 - `COMPUTE=0`: Set `COMPUTE=1` to compute real word-count scores from conversation files (default: direct fast synthetic score generation).
+
+## Report
+
+- [Membership Inference Attack Report](./report/Membership_Inference_Attack.docx)
